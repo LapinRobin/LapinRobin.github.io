@@ -1,0 +1,90 @@
+baseURL: "https://lapinrobin.github.io"
+languageCode: "en-us"
+title: "Yikang Su"
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+googleAnalytics: ""
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: /about/
+          weight: 10
+        - name: Portfolio
+          url: /portfolio/
+          weight: 20
+        - name: Experience
+          url: /experience/
+          weight: 30
+        - name: Blog
+          url: /posts/
+          weight: 40
+        - name: Search
+          url: /search/
+          weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Personal website of Yikang Su - Computer Science Graduate, Software and Data Engineer, sailing enthusiast, and keyboard player."
+  author: "Yikang Su"
+  
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  DisplayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  
+  homeInfoParams:
+    Title: "SU!"
+    Content: >
+      Not sure what to put here yet...
+
+  socialIcons:
+    - name: "Email"
+      url: "mailto:info@yikangsu.com"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/yikang-su/"
+    - name: "GitHub"
+      url: "https://github.com/LapinRobin"
+
+  # for search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
