@@ -152,3 +152,4 @@ Leading data analysis and software development for university racing team.
 - **Spatio-temporal Data Analysis** (December 2023 - January 2024) - KNIME and Python clustering analysis
 
 *Want to collaborate or learn more about any of these projects? Feel free to get in touch!*
+
