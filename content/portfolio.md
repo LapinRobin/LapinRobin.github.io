@@ -129,10 +129,10 @@ Providing technical support for an IMOCA sailing team preparing for the Vendée 
 - Logistics management
 - Pre-race technical preparation
 
-### Proto INSA Club - Treasurer & Data Analysis Head
+### Proto INSA Club - Treasurer & Data Analysis
 **September 2023 - Present**
 
-Leading data analysis and software development for university racing team.
+Doing data analysis and software development for university racing team.
 
 **Website:** [Proto INSA Club](https://www.protoinsaclub.fr/)
 

@@ -130,7 +130,6 @@ Facilitated international sports collaboration and cultural exchange programs.
 - **Languages:** Native Chinese, Bilingual English (C2), Professional French (C1), Beginner Italian (A2) and Japanese (A1)
 - **Professional Sailing:** 14+ years of experience since 2011
 - **Music:** 7 years piano, 2 years saxophone
-- **Leadership:** Treasurer and Head of Data Analysis at Proto INSA Club
 
 ---
 
