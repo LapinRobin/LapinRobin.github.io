@@ -65,6 +65,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
+  mainSections: []
   
   homeInfoParams:
     Title: "Ahoy!"

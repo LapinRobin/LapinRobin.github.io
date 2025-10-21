@@ -5,7 +5,6 @@ draft: false
 showToc: false
 ---
 
-## About me
 
 I'm a Computer Science graduate from INSA Lyon, specializing in **Data Engineering** and **Machine Learning**. I had some solid experiences in fullstack software development in C# .NET and Angular.
 
