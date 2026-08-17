@@ -73,8 +73,6 @@ params:
       I’m Yikang Su. I recently completed my Master’s in Computer Science at INSA Lyon. Beyond technology, I’m passionate about sailing. The freedom and uncertainty of the sea inspire how I navigate challenges in life and work.
 
   socialIcons:
-    - name: "Email"
-      url: "mailto:"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/yikang-su/"
     - name: "GitHub"
